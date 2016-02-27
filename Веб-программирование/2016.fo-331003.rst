@@ -139,7 +139,7 @@
      -
    * - 12
      - Суворина Арина
-     -
+     - `arinasuvorina <https://github.com/arinasuvorina>`_
      -
      -
      -
